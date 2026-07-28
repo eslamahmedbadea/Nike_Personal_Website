@@ -1,4 +1,4 @@
-# 👟 Nike Personal Landing Page
+# 👟 Nike Personal Website
 
 A modern and responsive **Nike-inspired landing page** built using **React.js** and **Tailwind CSS**, focused on delivering a clean UI and smooth user experience.
 
