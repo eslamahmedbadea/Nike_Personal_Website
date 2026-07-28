@@ -28,22 +28,10 @@ The goal was to:
 
 ## 🛠️ Tech Stack
 
-- **React.js**  
-- **Tailwind CSS**  
-- **JavaScript (ES6+)**  
-- **Vite**  
-
----
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/eslamahmedbadea/Nike_Personal_Landing_Page.git
-cd Nike_Personal_Landing_Page
-npm install
-npm run dev
-```
-
+- **HTML**  
+- **CSS**  
+- **JavaScript (ES6+)**
+- 
 ---
 
 ## ⭐ Final Note
