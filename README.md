@@ -28,7 +28,7 @@ The goal was to:
 
 ## 🛠️ Tech Stack
 
-- **HTML**  
+- **HTML5**  
 - **CSS**  
 - **JavaScript (ES6+)**
 - 
